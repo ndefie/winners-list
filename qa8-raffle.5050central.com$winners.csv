@@ -1,7 +1,7 @@
 EventNo,EventTitle,CustomerName,CTACardName,DrawYear,DrawMonth,DrawDay,FormattedTicketNo,PrizeAmount,PrizeTitle,CTACardNumber
-6,Week 1,Marla Singer,Ace of Spades,2021,01,12,A-1234567,1688,Weekly Prize,32
-7,Week 2,Tyler Durden ,Jack of Hearts,2021,01,19,A-2333333,83774,Weekly Prize,34
-8,Week 3,Joe Smith,8 of Diamonds,2021,01,26,A-2349878,343,Weekly Prize,18
-9,Week 4,"Joe Smith, Jr.",Ace of Hearts,2021,02,01,B-3787222,3422,Weekly Prize,5
-10,Week 5,Joe Smith,8 of Diamonds,2021,01,26,A-2349878,343,Weekly Prize,20
-11,Week 6,John Smith,10 of Diamonds,2021,03,26,A-12312312,3400,Weekly Prize,45
+6,Week 1,Marla Singer,Ace of Spades,2021,JAN,12,A-1234567,1688,Weekly Prize,32
+7,Week 2,Tyler Durden ,Jack of Hearts,2021,JAN,19,A-2333333,83774,Weekly Prize,34
+8,Week 3,Joe Smith,8 of Diamonds,2021,JAN,26,A-2349878,343,Weekly Prize,18
+9,Week 4,"Joe Smith, Jr.",Ace of Hearts,2021,FEB,01,B-3787222,3422,Weekly Prize,5
+10,Week 5,Joe Smith,8 of Diamonds,2021,FEB,26,A-2349878,343,Weekly Prize,20
+11,Week 6,John Smith,10 of Diamonds,2021,MAR,26,A-12312312,3400,Weekly Prize,45
